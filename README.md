@@ -1,2 +1,2 @@
-# Registro_Usuarios
-Aplicación de gestión empresarial 
+# App ios/andrid
+Aplicación de gestión empresarial para almacenar datos de personal   
